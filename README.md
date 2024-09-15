@@ -10,7 +10,7 @@ Make sure you have **Node.js** installed on your machine.
 ### 🧰 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SujeetPawar/hangman.g
+   git clone https://github.com/SujeetPawar/hangman.git
 2. Navigate into the project directory:
    ```bash
    cd hangman-game
